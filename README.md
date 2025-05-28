@@ -1,2 +1,3 @@
-# updated_transferbed
-this is updated file of transfer bed application
+# transfer_bedapp
+
+A new Flutter project.
